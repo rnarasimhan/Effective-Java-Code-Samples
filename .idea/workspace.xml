@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="31f68817-ac3f-4448-b536-76354546c22b" name="Default" comment="Merge Code from two projects">
+    <list default="true" id="31f68817-ac3f-4448-b536-76354546c22b" name="Default" comment="">
+      <change type="MOVED" beforePath="C:\Users\rnarasimhan\IdeaProjects\BasicJavaProjects\BasicJavaProjects.iml" afterPath="$PROJECT_DIR$/EffectiveJavaCodeSamples.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="BasicJavaProjects.iws" />
@@ -17,7 +18,7 @@
     <file path="/Item8Person.java" changelist="31f68817-ac3f-4448-b536-76354546c22b" time="1356293213189" ignored="false" />
     <file path="/Item9HashCode.java" changelist="31f68817-ac3f-4448-b536-76354546c22b" time="1356303370611" ignored="false" />
     <file path="/Item14LimitedAccess.java" changelist="31f68817-ac3f-4448-b536-76354546c22b" time="1356305845319" ignored="false" />
-    <file path="/Dummy.txt" changelist="31f68817-ac3f-4448-b536-76354546c22b" time="1356713046928" ignored="false" />
+    <file path="/Dummy.txt" changelist="31f68817-ac3f-4448-b536-76354546c22b" time="1356713817920" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +89,7 @@
       <file leaf-file-name="Item13LimitedAccess.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chapter4/Item13LimitedAccess.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="22" selection-start="441" selection-end="441" vertical-scroll-proportion="-12.92">
+            <state line="19" column="0" selection-start="441" selection-end="441" vertical-scroll-proportion="-12.92">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -108,7 +109,7 @@
       <file leaf-file-name="Item15Immutability.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/chapter4/Item15Immutability.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="76" selection-start="219" selection-end="219" vertical-scroll-proportion="0.3041145">
+            <state line="10" column="0" selection-start="219" selection-end="219" vertical-scroll-proportion="0.3041145">
               <folding />
             </state>
           </provider>
@@ -537,7 +538,11 @@
       <created>1356713061041</created>
       <updated>1356713061041</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Merge Code from two projects">
+      <created>1356713826259</created>
+      <updated>1356713826259</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -705,7 +710,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter4/Item13LimitedAccess.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="22" selection-start="441" selection-end="441" vertical-scroll-proportion="-12.92">
+        <state line="19" column="0" selection-start="441" selection-end="441" vertical-scroll-proportion="-12.92">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -721,7 +726,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter4/Item15Immutability.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="76" selection-start="219" selection-end="219" vertical-scroll-proportion="0.3041145">
+        <state line="10" column="0" selection-start="219" selection-end="219" vertical-scroll-proportion="0.3041145">
           <folding />
         </state>
       </provider>
